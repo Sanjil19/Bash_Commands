@@ -139,17 +139,6 @@ To keep your Bash commands and scripts organized:
 - Store your scripts (`.sh` files) and command snippets there.
 - Keep a `README.md` inside the folder explaining each script or snippet.
 
-**Example structure:**
-```
-PROGRAMMING/
-└── Bash_Commands/
-    ├── README.md
-    ├── scripts/
-    │   ├── create_projects.sh
-    │   └── move_files.sh
-    └── snippets.md
-```
-
 ---
 
 ## Setting Up a New Repo & Pushing to GitHub
